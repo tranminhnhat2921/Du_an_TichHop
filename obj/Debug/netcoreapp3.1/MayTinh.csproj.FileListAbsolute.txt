@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\bin\Debug\netcoreapp3.1\MayTinh.exe
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\bin\Debug\netcoreapp3.1\MayTinh.deps.json
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\bin\Debug\netcoreapp3.1\MayTinh.runtimeconfig.json
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\bin\Debug\netcoreapp3.1\MayTinh.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\bin\Debug\netcoreapp3.1\MayTinh.dll
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\bin\Debug\netcoreapp3.1\MayTinh.pdb
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\obj\Debug\netcoreapp3.1\MayTinh.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\obj\Debug\netcoreapp3.1\MayTinh.Form1.resources
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\obj\Debug\netcoreapp3.1\MayTinh.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\obj\Debug\netcoreapp3.1\MayTinh.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\obj\Debug\netcoreapp3.1\MayTinh.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\obj\Debug\netcoreapp3.1\MayTinh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\obj\Debug\netcoreapp3.1\MayTinh.dll
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\obj\Debug\netcoreapp3.1\MayTinh.pdb
+C:\Users\Administrator\source\repos\MayTinh\MayTinh\obj\Debug\netcoreapp3.1\MayTinh.genruntimeconfig.cache
